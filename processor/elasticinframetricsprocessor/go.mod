@@ -43,3 +43,5 @@ require (
 	google.golang.org/protobuf v1.34.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
+
+replace github.com/elastic/opentelemetry-lib v0.0.0-20240604140721-08863a456d6c => github.com/ishleenk17/opentelemetry-lib v0.0.0-20240613064954-1bccf5f07240
